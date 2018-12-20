@@ -1,6 +1,6 @@
 {
   "name": "async-service",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "基于axios的一步请求解决方案",
   "main": "./lib/index.js",
   "scripts": {
