@@ -2,6 +2,8 @@
 
 ### 使用示例
 
+详细示例可见：[example](https://github.com/abell123456/async-service/tree/master/example)
+
 ```js
 // service.js
 
