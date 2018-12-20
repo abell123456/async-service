@@ -1,7 +1,7 @@
 {
   "name": "async-service",
-  "version": "0.0.2",
-  "description": "基于axios的一步请求解决方案",
+  "version": "0.0.3",
+  "description": "基于axios的异步请求统一解决方案，使用简单高效",
   "main": "./lib/index.js",
   "scripts": {
     "build": "rimraf lib && babel src --out-dir lib",
